@@ -1,0 +1,20 @@
+# Local settings and sensitive runtime data
+config.json
+config.local.json
+.env
+.env.*
+auth.json
+*.log
+*.jsonl
+*.db
+*.sqlite*
+status-*.json
+hud-state.json
+# Build and temporary files
+*.exe
+*.dll
+*.zip
+__pycache__/
+*.pyc
+work/
+.test-work/
