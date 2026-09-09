@@ -1,0 +1,20 @@
+{
+  "RefreshSeconds": 3,
+  "QuotaRefreshSeconds": 90,
+  "MaxSessionsPerSource": 8,
+  "RunningStaleMinutes": 30,
+  "Topmost": true,
+  "Opacity": 0.96,
+  "Windows": {
+    "Enabled": true,
+    "CodexHome": "",
+    "CodexCommand": ""
+  },
+  "Docker": {
+    "Enabled": false,
+    "WslDistro": "",
+    "Container": "",
+    "CodexHome": "",
+    "CodexCommand": "codex"
+  }
+}
